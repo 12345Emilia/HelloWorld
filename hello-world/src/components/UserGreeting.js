@@ -6,7 +6,7 @@ class UserGreeting extends Component {
         super(props)
 
         this.state = {
-            isLoggedIn = false
+            isLoggedIn: false
         }
     }
     render() {
